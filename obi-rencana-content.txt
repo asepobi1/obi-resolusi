@@ -1,6 +1,8 @@
 RENCANA KONTEN OBI
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
