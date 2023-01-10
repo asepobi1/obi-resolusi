@@ -10,4 +10,4 @@ RENCANA KONTEN OBI
  ^ Laravel
 - Interview
 - Vlogs
-- Phyton
+- Pyton
